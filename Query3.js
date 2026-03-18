@@ -1,4 +1,5 @@
-const { MongoClient } = require("mongodb");
+// Interpretation: "person that got the most tweets" = the user who posted
+// the most tweets in the dataset (most prolific author at the conference)const { MongoClient } = require("mongodb");
 
 const URI = "mongodb://localhost:27017";
 const DB = "ieeevisTweets";

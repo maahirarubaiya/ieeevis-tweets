@@ -34,3 +34,6 @@ Run any query with:
 ```
 node Query1.js
 ```
+## AI Disclosure
+AI tools were used only to look up examples and references, 
+not to write any code in this assignment.
